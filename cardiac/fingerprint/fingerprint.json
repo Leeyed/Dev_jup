@@ -1,0 +1,1348 @@
+{
+    "Patient_0000": {
+        "pid": "000149118",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0000/SA_112.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0000/screenCap_110.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0000/Polar_107.nii.gz"
+        ]
+    },
+    "Patient_0001": {
+        "pid": "000352053",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0001/SA_9.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0001/SA_20.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0001/screenCap_18.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0001/Polar_15.nii.gz"
+        ]
+    },
+    "Patient_0002": {
+        "pid": "000652515",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0002/SA_154.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0002/Polar_160.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0002/Polar_167.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0002/screenCap_163.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0002/screenCap_169.png"
+        ]
+    },
+    "Patient_0003": {
+        "pid": "000872564",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0003/Polar_183.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0003/Polar_190.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0003/SA_177.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0003/screenCap_186.png"
+        ]
+    },
+    "Patient_0004": {
+        "pid": "001165278",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0004/screenCap_298.png"
+        ]
+    },
+    "Patient_0005": {
+        "pid": "001240146",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0005/screenCap_65.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0005/screenCap_62.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0005/SA_53.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0005/Polar_59.nii.gz"
+        ]
+    },
+    "Patient_0006": {
+        "pid": "001398670",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0006/Polar_269.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0006/SA_263.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0006/screenCap_272.png"
+        ]
+    },
+    "Patient_0007": {
+        "pid": "001668155",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0007/screenCap_293.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0007/Polar_290.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0007/SA_284.nii.gz"
+        ]
+    },
+    "Patient_0008": {
+        "pid": "001788892",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0008/screenCap_251.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0008/SA_242.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0008/Polar_248.nii.gz"
+        ]
+    },
+    "Patient_0009": {
+        "pid": "001877756",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0009/Polar_204.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0009/screenCap_207.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0009/SA_198.nii.gz"
+        ]
+    },
+    "Patient_0010": {
+        "pid": "002154251",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0010/screenCap_138.png"
+        ]
+    },
+    "Patient_0011": {
+        "pid": "002212087",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0011/Polar_128.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0011/SA_122.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0011/screenCap_131.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0011/screenCap_135.png"
+        ]
+    },
+    "Patient_0012": {
+        "pid": "002319966",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0012/screenCap_16.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0012/Polar_13.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0012/SA_7.nii.gz"
+        ]
+    },
+    "Patient_0013": {
+        "pid": "002465236",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0013/screenCap_230.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0013/Polar_227.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0013/SA_221.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0013/SA_232.nii.gz"
+        ]
+    },
+    "Patient_0014": {
+        "pid": "002475009",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0014/screenCap_417.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0014/SA_402.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0014/Polar_408.nii.gz"
+        ]
+    },
+    "Patient_0015": {
+        "pid": "002478508",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0015/Polar_459.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0015/SA_453.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0015/screenCap_462.png"
+        ]
+    },
+    "Patient_0016": {
+        "pid": "002483814",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0016/screenCap_424.png"
+        ]
+    },
+    "Patient_0017": {
+        "pid": "002484057",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0017/Polar_438.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0017/Polar_445.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0017/SA_432.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0017/screenCap_441.png"
+        ]
+    },
+    "Patient_0018": {
+        "pid": "002485661",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0018/screenCap_389.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0018/SA_380.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0018/Polar_386.nii.gz"
+        ]
+    },
+    "Patient_0019": {
+        "pid": "002487705",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/SA_24.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/SA_352.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/Polar_362.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/Polar_34.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/Polar_43.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/Polar_372.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/screenCap_39.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0019/screenCap_367.png"
+        ]
+    },
+    "Patient_0020": {
+        "pid": "002487963",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0020/Polar_343.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0020/Polar_350.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0020/SA_337.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0020/screenCap_346.png"
+        ]
+    },
+    "Patient_0021": {
+        "pid": "002493127",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/screenCap_66.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/screenCap_321.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/Polar_313.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/Polar_319.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/Polar_58.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/Polar_326.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/Polar_64.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/Polar_69.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/SA_52.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0021/SA_307.nii.gz"
+        ]
+    },
+    "Patient_0022": {
+        "pid": "002493552",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/SA_74.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/SA_90.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/screenCap_83.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/screenCap_89.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/screenCap_84.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/Polar_80.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0022/Polar_87.nii.gz"
+        ]
+    },
+    "Patient_0023": {
+        "pid": "002495288",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0023/Polar_566.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0023/SA_560.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0023/screenCap_569.png"
+        ]
+    },
+    "Patient_0024": {
+        "pid": "002496302",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0024/SA_647.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0024/Polar_659.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0024/Polar_653.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0024/screenCap_661.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0024/screenCap_665.png"
+        ]
+    },
+    "Patient_0025": {
+        "pid": "002502229",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0025/screenCap_548.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0025/screenCap_131.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0025/Polar_545.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0025/Polar_128.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0025/SA_122.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0025/SA_539.nii.gz"
+        ]
+    },
+    "Patient_0026": {
+        "pid": "002502241",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/Polar_212.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/Polar_608.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/SA_206.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/SA_602.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/screenCap_215.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/screenCap_217.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/screenCap_615.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0026/screenCap_611.png"
+        ]
+    },
+    "Patient_0027": {
+        "pid": "002505016",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0027/screenCap_527.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0027/SA_518.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0027/Polar_524.nii.gz"
+        ]
+    },
+    "Patient_0028": {
+        "pid": "002509131",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0028/screenCap_635.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0028/SA_626.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0028/Polar_632.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0028/Polar_636.nii.gz"
+        ]
+    },
+    "Patient_0029": {
+        "pid": "002514322",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0029/screenCap_684.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0029/SA_675.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0029/Polar_681.nii.gz"
+        ]
+    },
+    "Patient_0030": {
+        "pid": "002517120",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0030/screenCap_618.png"
+        ]
+    },
+    "Patient_0031": {
+        "pid": "002525407",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/SA_353.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/SA_581.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/Polar_359.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/Polar_587.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/Polar_365.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/screenCap_590.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0031/screenCap_362.png"
+        ]
+    },
+    "Patient_0032": {
+        "pid": "002530972",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0032/SA_497.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0032/Polar_503.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0032/Polar_510.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0032/screenCap_506.png"
+        ]
+    },
+    "Patient_0033": {
+        "pid": "002541072",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0033/SA_476.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0033/screenCap_485.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0033/Polar_482.nii.gz"
+        ]
+    },
+    "Patient_0034": {
+        "pid": "002542571",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0034/Polar_961.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0034/SA_955.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0034/SA_967.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0034/screenCap_964.png"
+        ]
+    },
+    "Patient_0035": {
+        "pid": "002545618",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0035/screenCap_988.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0035/screenCap_985.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0035/Polar_982.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0035/SA_976.nii.gz"
+        ]
+    },
+    "Patient_0036": {
+        "pid": "002547555",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0036/screenCap_943.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0036/SA_934.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0036/SA_947.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0036/Polar_940.nii.gz"
+        ]
+    },
+    "Patient_0037": {
+        "pid": "002555079",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/SA_143.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/SA_871.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/SA_153.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/Polar_149.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/Polar_877.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/screenCap_152.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/screenCap_155.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0037/screenCap_880.png"
+        ]
+    },
+    "Patient_0038": {
+        "pid": "002556611",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/screenCap_194.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/screenCap_922.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/screenCap_925.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/SA_913.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/SA_197.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/SA_185.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/Polar_919.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0038/Polar_191.nii.gz"
+        ]
+    },
+    "Patient_0039": {
+        "pid": "002561251",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0039/SA_829.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0039/screenCap_838.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0039/screenCap_842.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0039/Polar_835.nii.gz"
+        ]
+    },
+    "Patient_0040": {
+        "pid": "002570194",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0040/screenCap_733.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0040/Polar_730.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0040/SA_724.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0040/SA_737.nii.gz"
+        ]
+    },
+    "Patient_0041": {
+        "pid": "002576089",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0041/Polar_793.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0041/Polar_799.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0041/SA_787.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0041/screenCap_796.png"
+        ]
+    },
+    "Patient_0042": {
+        "pid": "002579302",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0042/SA_248.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0042/SA_892.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0042/Polar_254.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0042/Polar_898.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0042/screenCap_257.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0042/screenCap_901.png"
+        ]
+    },
+    "Patient_0043": {
+        "pid": "002579730",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/screenCap_278.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/screenCap_41.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/Polar_275.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/Polar_42.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/Polar_38.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/SA_32.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/SA_45.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0043/SA_269.nii.gz"
+        ]
+    },
+    "Patient_0044": {
+        "pid": "002580550",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/SA_850.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/SA_311.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/SA_323.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/screenCap_320.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/screenCap_859.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/Polar_856.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0044/Polar_317.nii.gz"
+        ]
+    },
+    "Patient_0045": {
+        "pid": "002582522",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/SA_808.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/SA_332.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/SA_345.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/Polar_338.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/Polar_814.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/screenCap_817.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0045/screenCap_341.png"
+        ]
+    },
+    "Patient_0046": {
+        "pid": "002588464",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0046/SA_766.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0046/screenCap_775.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0046/screenCap_778.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0046/Polar_772.nii.gz"
+        ]
+    },
+    "Patient_0047": {
+        "pid": "002588902",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0047/screenCap_754.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0047/SA_745.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0047/SA_756.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0047/Polar_751.nii.gz"
+        ]
+    },
+    "Patient_0048": {
+        "pid": "002596920",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0048/screenCap_710.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0048/SA_696.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0048/Polar_702.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0048/Polar_708.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0048/Polar_711.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0048/Polar_715.nii.gz"
+        ]
+    },
+    "Patient_0049": {
+        "pid": "002601893",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/SA_1994.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/SA_395.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/screenCap_2003.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/screenCap_404.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/Polar_2000.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/Polar_2007.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0049/Polar_401.nii.gz"
+        ]
+    },
+    "Patient_0050": {
+        "pid": "002601990",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0050/SA_1228.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0050/Polar_1234.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0050/screenCap_1237.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0050/screenCap_1240.png"
+        ]
+    },
+    "Patient_0051": {
+        "pid": "002604648",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/screenCap_1602.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/screenCap_425.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/SA_416.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/SA_1593.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/Polar_422.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/Polar_1599.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0051/Polar_1603.nii.gz"
+        ]
+    },
+    "Patient_0052": {
+        "pid": "002607843",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0052/SA_1656.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0052/Polar_1662.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0052/screenCap_1665.png"
+        ]
+    },
+    "Patient_0053": {
+        "pid": "002607972",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0053/screenCap_1943.png"
+        ]
+    },
+    "Patient_0054": {
+        "pid": "002613954",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0054/Polar_1570.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0054/screenCap_1581.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0054/SA_1578.nii.gz"
+        ]
+    },
+    "Patient_0055": {
+        "pid": "002614131",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0055/Polar_2064.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0055/SA_2058.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0055/screenCap_2067.png"
+        ]
+    },
+    "Patient_0056": {
+        "pid": "002617107",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0056/Polar_1108.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0056/SA_1102.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0056/screenCap_1111.png"
+        ]
+    },
+    "Patient_0057": {
+        "pid": "002620891",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0057/SA_2015.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0057/SA_437.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0057/screenCap_2025.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0057/screenCap_447.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0057/Polar_443.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0057/Polar_2021.nii.gz"
+        ]
+    },
+    "Patient_0058": {
+        "pid": "002626527",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/SA_459.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/SA_1927.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/Polar_1933.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/Polar_1939.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/Polar_465.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/screenCap_468.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/screenCap_1940.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/screenCap_1937.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/screenCap_471.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/screenCap_1936.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0058/screenCap_470.png"
+        ]
+    },
+    "Patient_0059": {
+        "pid": "002630424",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0059/Polar_2043.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0059/Polar_2050.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0059/SA_2037.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0059/screenCap_2046.png"
+        ]
+    },
+    "Patient_0060": {
+        "pid": "002632226",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0060/Polar_1683.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0060/Polar_1690.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0060/SA_1677.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0060/screenCap_1686.png"
+        ]
+    },
+    "Patient_0061": {
+        "pid": "002633329",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/screenCap_489.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/screenCap_1069.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/SA_1060.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/SA_480.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/Polar_1066.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/Polar_486.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0061/Polar_1071.nii.gz"
+        ]
+    },
+    "Patient_0062": {
+        "pid": "002633755",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0062/SA_1292.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0062/Polar_1298.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0062/screenCap_1301.png"
+        ]
+    },
+    "Patient_0063": {
+        "pid": "002640212",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0063/Polar_1277.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0063/screenCap_1280.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0063/SA_1271.nii.gz"
+        ]
+    },
+    "Patient_0064": {
+        "pid": "002642459",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0064/SA_1250.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0064/SA_1262.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0064/screenCap_1259.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0064/screenCap_1261.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0064/Polar_1256.nii.gz"
+        ]
+    },
+    "Patient_0065": {
+        "pid": "002648151",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0065/Polar_1557.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0065/SA_1551.nii.gz"
+        ]
+    },
+    "Patient_0066": {
+        "pid": "002650972",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0066/SA_1614.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0066/Polar_1620.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0066/Polar_1624.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0066/screenCap_1623.png"
+        ]
+    },
+    "Patient_0067": {
+        "pid": "002652128",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/Polar_507.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/Polar_1891.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/Polar_1896.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/screenCap_510.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/screenCap_1894.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/SA_1885.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0067/SA_501.nii.gz"
+        ]
+    },
+    "Patient_0068": {
+        "pid": "002657146",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0068/Polar_1786.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0068/SA_1780.nii.gz"
+        ]
+    },
+    "Patient_0069": {
+        "pid": "002657549",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0069/Polar_1762.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0069/screenCap_1765.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0069/SA_1747.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0069/SA_1756.nii.gz"
+        ]
+    },
+    "Patient_0070": {
+        "pid": "002665063",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0070/screenCap_1831.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0070/SA_1822.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0070/Polar_1828.nii.gz"
+        ]
+    },
+    "Patient_0071": {
+        "pid": "002672878",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0071/screenCap_1733.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0071/screenCap_1739.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0071/Polar_1731.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0071/Polar_1725.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0071/SA_1719.nii.gz"
+        ]
+    },
+    "Patient_0072": {
+        "pid": "100051991",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0072/screenCap_1707.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0072/Polar_1704.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0072/Polar_1709.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0072/SA_1698.nii.gz"
+        ]
+    },
+    "Patient_0073": {
+        "pid": "100167832",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0073/screenCap_1132.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0073/SA_1123.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0073/Polar_1129.nii.gz"
+        ]
+    },
+    "Patient_0074": {
+        "pid": "100469917",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0074/Polar_1912.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0074/Polar_1918.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0074/screenCap_1915.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0074/SA_1906.nii.gz"
+        ]
+    },
+    "Patient_0075": {
+        "pid": "161850",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0075/screenCap_1322.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0075/screenCap_383.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0075/SA_1313.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0075/SA_374.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0075/Polar_1319.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0075/Polar_380.nii.gz"
+        ]
+    },
+    "Patient_0076": {
+        "pid": "600263857",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0076/screenCap_1392.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0076/Polar_1389.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0076/SA_1383.nii.gz"
+        ]
+    },
+    "Patient_0077": {
+        "pid": "600360681",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0077/SA_1081.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0077/SA_1092.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0077/screenCap_1090.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0077/Polar_1087.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0077/Polar_1094.nii.gz"
+        ]
+    },
+    "Patient_0078": {
+        "pid": "600615583",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0078/SA_1864.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0078/Polar_1870.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0078/Polar_1874.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0078/screenCap_1873.png"
+        ]
+    },
+    "Patient_0079": {
+        "pid": "600639676",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0079/SA_9.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0079/SA_1843.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0079/Polar_1849.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0079/Polar_15.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0079/screenCap_1852.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0079/screenCap_18.png"
+        ]
+    },
+    "Patient_0080": {
+        "pid": "600652414",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/screenCap_1960.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/screenCap_111.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/screenCap_110.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/SA_1951.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/SA_101.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/SA_1963.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/Polar_1957.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0080/Polar_107.nii.gz"
+        ]
+    },
+    "Patient_0081": {
+        "pid": "600664323",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0081/Polar_1192.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0081/Polar_1198.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0081/SA_1186.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0081/screenCap_1195.png"
+        ]
+    },
+    "Patient_0082": {
+        "pid": "600695333",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0082/Polar_1213.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0082/Polar_1219.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0082/SA_1207.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0082/screenCap_1216.png"
+        ]
+    },
+    "Patient_0083": {
+        "pid": "600703333",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0083/Polar_1340.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0083/Polar_1346.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0083/SA_1334.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0083/screenCap_1348.png"
+        ]
+    },
+    "Patient_0084": {
+        "pid": "600713944",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0084/SA_1404.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0084/Polar_1410.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0084/Polar_1414.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0084/screenCap_1413.png"
+        ]
+    },
+    "Patient_0085": {
+        "pid": "600720967",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0085/screenCap_1644.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0085/Polar_1641.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0085/SA_1635.nii.gz"
+        ]
+    },
+    "Patient_0086": {
+        "pid": "600723800",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0086/Polar_170.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0086/Polar_1052.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0086/Polar_177.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0086/Polar_1045.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0086/SA_164.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0086/SA_1039.nii.gz"
+        ]
+    },
+    "Patient_0087": {
+        "pid": "600744712",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0087/Polar_1452.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0087/Polar_1458.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0087/screenCap_1455.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0087/SA_1446.nii.gz"
+        ]
+    },
+    "Patient_0088": {
+        "pid": "600752733",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0088/SA_1488.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0088/screenCap_1497.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0088/Polar_1494.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0088/Polar_1500.nii.gz"
+        ]
+    },
+    "Patient_0089": {
+        "pid": "600754532",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/Polar_233.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/Polar_1028.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/Polar_1024.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/SA_227.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/SA_1018.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/screenCap_1027.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0089/screenCap_236.png"
+        ]
+    },
+    "Patient_0090": {
+        "pid": "600758866",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/Polar_296.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/Polar_302.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/Polar_1368.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/SA_1362.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/SA_290.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/SA_1372.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/screenCap_299.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/screenCap_1371.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0090/screenCap_1375.png"
+        ]
+    },
+    "Patient_0091": {
+        "pid": "600798346",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0091/screenCap_299.png"
+        ]
+    },
+    "Patient_0092": {
+        "pid": "600806482",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0092/screenCap_1518.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0092/Polar_1515.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0092/SA_1509.nii.gz"
+        ]
+    },
+    "Patient_0093": {
+        "pid": "600806682",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0093/Polar_2085.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0093/screenCap_2088.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0093/SA_2079.nii.gz"
+        ]
+    },
+    "Patient_0094": {
+        "pid": "600812066",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0094/screenCap_2109.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0094/SA_2100.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0094/Polar_2106.nii.gz"
+        ]
+    },
+    "Patient_0095": {
+        "pid": "600817175",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0095/SA_1972.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0095/Polar_1978.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0095/Polar_1985.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0095/screenCap_1981.png"
+        ]
+    },
+    "Patient_0096": {
+        "pid": "600825327",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0096/screenCap_1539.png",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0096/screenCap_1543.png"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0096/SA_1530.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0096/Polar_1536.nii.gz"
+        ]
+    },
+    "Patient_0097": {
+        "pid": "600842201",
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0097/screenCap_1476.png"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0097/Polar_1473.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0097/Polar_1479.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0097/SA_1467.nii.gz"
+        ]
+    },
+    "Patient_0098": {
+        "pid": "600846179",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0098/SA_1802.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0098/Polar_1808.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0098/Polar_1811.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0098/Polar_1813.nii.gz"
+        ]
+    },
+    "Patient_0099": {
+        "pid": "600853439",
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0099/SA_1144.nii.gz"
+        ],
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0099/Polar_1150.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0099/screenCap_1153.png"
+        ]
+    },
+    "Patient_0100": {
+        "pid": "600855409",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0100/Polar_1171.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0100/Polar_1176.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0100/SA_1165.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0100/screenCap_1174.png"
+        ]
+    },
+    "Patient_0101": {
+        "pid": "600860393",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0101/Polar_1431.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0101/Polar_1436.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0101/SA_1425.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0101/screenCap_1434.png"
+        ]
+    },
+    "Patient_0102": {
+        "pid": "600860468",
+        "Polar_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0102/Polar_1003.nii.gz",
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0102/Polar_1009.nii.gz"
+        ],
+        "SA_img": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0102/SA_997.nii.gz"
+        ],
+        "ScreenCap": [
+            "/mnt/labnas/DataCollection/Project/RadiSmart/cardiac/all_nii/Patient_0102/screenCap_1006.png"
+        ]
+    }
+}
